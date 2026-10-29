@@ -1,0 +1,5 @@
+{
+  "name": "no-email",
+  "owner": { "name": "AlexErrant" },
+  "plugins": [{ "name": "no-email", "source": "./.claude/skills/no-email" }]
+}
